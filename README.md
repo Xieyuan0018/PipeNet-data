@@ -4,7 +4,7 @@ This repository shares the real scan data (the Lab scene) used in the manuscript
 
 
 ## Link to the data
-Please download the data [here](https://drive.google.com/file/d/1z4fkhzT-Jft3hjiTjEZ1koeaq4KnmutA/view?usp=sharing).
+Please download the data [here](https://forms.gle/E2runa3LVmhLGbi97).
 
 Contents:
 1. Lab.ply: the registered scan point cloud.
